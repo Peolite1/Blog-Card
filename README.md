@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/Peolite1/Blog-card.git](https://your-solution-url.com)
+- Solution URL: [https://github.com/Peolite1/Blog-Card.git](https://your-solution-url.com)
 - Live Site URL: [](https://your-live-site-url.com)
 
 ## My process
