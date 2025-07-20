@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [solution](https://github.com/Peolite1/Blog-Card.git)
-- Live Site URL: [](https://your-live-site-url.com)
+- Live Site URL: [Blog Card](https://peolite1.github.io/Blog-Card/)
 
 ## My process
 
@@ -75,7 +75,7 @@ I'll focuse more on my webdevelopmet, even though its been long since i visited 
 
 ## Author
 
-- Website - [Okorie PraiseGod.E.](https://www.your-site.com)
+- Website - [Okorie PraiseGod.E.](https://peolite1.github.io/Blog-Card/)
 - Frontend Mentor - [@Peolite1](https://www.frontendmentor.io/profile/Peolite1)
 - Twitter - [@prai79461](https://x.com/prai79461)
 
