@@ -2,7 +2,7 @@ body{
     display: grid;
     margin: 0;
     padding: 20px;
-    width: 294px;
+    width: 290px;
     justify-content: center;
     align-items: center;
     background-color: rgb(255, 209, 92);
@@ -12,7 +12,6 @@ body{
 
 
  .me{
-     display:flex;
     border: 1px solid rgb(58, 58, 58);
     background-color: white;
     border-radius: 20px;
