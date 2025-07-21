@@ -12,7 +12,6 @@ body{
 
 
  .me{
-     display: flex;
     border: 1px solid rgb(58, 58, 58);
     background-color: white;
     border-radius: 20px;
